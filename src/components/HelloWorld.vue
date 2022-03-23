@@ -17,7 +17,7 @@ export default {
  message:"welcome to my desk",
  name:"naveenmonty",
  number: 9874561230,
- workingcompany: "MANTRA",
+ workingcompany: "MANTRA TECHNOLOGIES",
   }
   }
 }
